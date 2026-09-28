@@ -1,0 +1,6 @@
+{
+  "name": "SxS Judge",
+  "description": "Side-by-side AI response evaluator with real-time hard checks, bias-resistant double judging, verifiable evidence quotes, and defensible verdicts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
